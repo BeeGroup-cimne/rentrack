@@ -1,0 +1,55 @@
+Package: rentrack
+Type: Package
+Title: rentrack 
+Version: 1.2.0
+Author: Gerard Mor, Aleix Badia, Eloi Gabaldón, Jordi Carbonell, Stoyan Danov, Florencia Lazzari, Gerard Laguna, Marc Girona, Jordi Cipriano.
+Maintainer: Gerard Mor <gmor@cimne.upc.edu>
+Description: "This is the R implementation of the AI Toolbox functions developed in the framework of EN-TRACK project" 
+Encoding: UTF-8
+LazyData: false 
+Depends:
+    pastecs,
+    purrr,
+    arules,
+    glmnet,
+    ranger,
+    rdflib,
+    magrittr,
+    parsedate,
+    lubridate,
+    readr,
+    dplyr,
+    tidyr,
+    tibble,
+    zoo,
+    roll,
+    padr,
+    quantreg,
+    testthat,
+    kernlab,
+    fastDummies,
+    caret,
+    penalized,
+    onlineforecast,
+    matrixStats,
+    qgam,
+    GA,
+    parallel,
+    FinCal,
+    jsonlite,
+    digest,
+    matrixStats,
+    gratia,
+    ggplot2,
+    gridExtra,
+    R (>= 4.1.2)
+License: "" 
+RoxygenNote: 7.2.3
+Suggests: 
+    rmarkdown,
+    knitr,
+    plotly,
+    carrier,
+    mlflow,
+    mongolite
+VignetteBuilder: knitr
