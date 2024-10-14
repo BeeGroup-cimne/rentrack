@@ -25,7 +25,7 @@ install.packages(<.tar.gz file>, repos = NULL, type ="source")
 The functions implemented in this package are well documented, but end-users should know that authors could make minor refinements until the end of the EN-TRACK project. Some minor changes in code could occur.
 
 ## License
-This R package is licensed under the MIT License. It also depends on other popular open-source R libraries, from which it will retain their licenses.
+This R package is licensed under the EUPL License. It also depends on other popular open-source R libraries, from which it will retain their licenses.
 
 ## Authors
 - Gerard Mor - gmor@cimne.upc.edu
