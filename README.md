@@ -26,3 +26,17 @@ The functions implemented in this package are well documented, but end-users sho
 
 ## License
 This R package is licensed under the MIT License. It also depends on other popular open-source R libraries, from which it will retain their licenses.
+
+## Authors
+- Gerard Mor - gmor@cimne.upc.edu
+- Aleix Badia - gmor@cimne.upc.edu
+- Eloi Gabaldón - egabaldon@cimne.upc.edu
+- Jordi Carbonell - jordi@cimne.upc.edu
+- Stoyan Danov - sdanov@cimne.upc.edu
+- Florencia Lazzari
+- Gerard Laguna - glaguna@cimne.upc.edu
+- Marc Girona - mgirona@cimne.upc.edu
+- Jordi Cipriano - jordi@cimne.upc.edu
+- Riccardo De Vivo
+- Manu Lahariya
+Copyright (c) 2022 Gerard Mor, Aleix Badia, Eloi Gabaldón, Jordi Carbonell, Stoyan Danov, Florencia Lazzari, Gerard Laguna, Marc Girona, Jordi Cipriano, Riccardo De Vivo, Manu Lahariya
